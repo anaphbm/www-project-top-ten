@@ -7,7 +7,7 @@ type: documentation
 altfooter: true
 level: 4
 auto-migrated: 0
-pitch: The OWASP Top 10 is the reference standard for the most critical web application security risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards changing your software development culture focused on producing secure code.
+Pitch: The OWASP Top 10 is the reference standard for the most critical web application security risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards changing your software development culture focused on producing secure code.
 
 ---
 
